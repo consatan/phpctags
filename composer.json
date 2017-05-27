@@ -1,6 +1,6 @@
 {
-    "name": "techlivezheng/phpctags",
-    "description": "An enhanced php ctags index generator.",
+    "name": "consatan/phpctags",
+    "description": "An enhanced php ctags index generator. Forked from vim-php/phpctags",
     "keywords": ["ctags"],
     "type": "library",
     "require": {
